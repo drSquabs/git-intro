@@ -1,9 +1,9 @@
-Morning Chocolate-PeanutButter Shake
+# Morning Chocolate-PeanutButter Shake
 
 Prep time: 5 minutes
 
 Ingredients:
-* 2 tbsp peanut butter
+* 2 tbsp natural peanut butter
 * 1 scoop of chocolate low-carb protein powder
 * 2 ice cubes
 * 1/3 cup heavy cream
@@ -12,4 +12,5 @@ Ingredients:
 
 Instructions
 * Blend ingredients in blender until ice cubes are fully crushed
+* Enjoy.
 
