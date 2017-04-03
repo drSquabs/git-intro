@@ -9,6 +9,7 @@ Ingredients:
 * 1/3 cup heavy cream
 * 1/2 cup of water
 * 2 tbsp coconut oil
+* 1 tbsp cool guy stuff
 
 Instructions
 * Blend ingredients in blender until ice cubes are fully crushed
